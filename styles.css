@@ -1,0 +1,26 @@
+body {
+    margin: 0 auto;
+    width: 850px;
+    height: 450px;
+}
+
+header {
+    background-image: url(https://cdn.pixabay.com/photo/2016/05/01/21/20/earth-1365995__480.jpg);
+    color: antiquewhite;
+    height: 450px;
+}
+
+article {
+    width: 270px;
+    height: 374px;
+    background: gray;
+    flex-direction: column;
+}
+
+section {
+    display: flex;
+    margin: 20px auto;
+    height: 374px;
+    justify-content: space-between;
+    background: gray;
+}
