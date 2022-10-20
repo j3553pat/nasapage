@@ -46,3 +46,20 @@ a:hover {
 p {
     font-size: 12pt;
 }
+
+label {
+    font-size: 12pt;
+}
+
+input {
+    padding-right: 75px;
+}
+
+button {
+    background-color: #232423;
+    border-color: #232423;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    font-size: 14px;
+}
